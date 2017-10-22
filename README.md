@@ -26,6 +26,6 @@ The trained model can be found here:
   <img src="images/2.jpg" />
   <img src="images/3.jpg" />
   <img src="images/4.jpg" />
-  <img src="images/5.jpg" />
-  <img src="images/6.jpg" />
+  <img src="images/5.png" />
+  <img src="images/6.png" />
 </p>
