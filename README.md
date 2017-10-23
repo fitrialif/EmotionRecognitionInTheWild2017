@@ -11,9 +11,7 @@ Dataset is available at https://1drv.ms/f/s!AvCvxAqN76_2gux9t878Vo87BrkJkw
 - dlib
 
 # How to use
-first run the extracFaces script for each folder of dataset to extract only faces in the dataset.
-The Train Script with the right reffrence for data location.
-The prediction script by fixing the location of the image:
+In order to prepare the data you need to first run the extractFaces script for each folder of dataset to extract only faces.Then you need to run The Train Script with the right reffrence for data location. After the training is done. you run the prediction script by fixing the location of the image and the saved model.
 ```
 path = '/path/to/image/'
 imagename = '1.jpg'
