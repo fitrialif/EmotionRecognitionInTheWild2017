@@ -19,10 +19,9 @@ path = '/path/to/image/'
 imagename = '1.jpg'
 ```
 # Prediction Samples
-The trained model can be found here: 
-
+The trained model can be found here: https://drive.google.com/drive/folders/0B5rYsA28q_6cY0szOXVCYmJBYkU?usp=sharing
+here is some examples of predictions:
 <p align="center">
-  <img src="images/1.jpg" />
   <img src="images/2.jpg" />
   <img src="images/3.jpg" />
   <img src="images/4.jpg" />
